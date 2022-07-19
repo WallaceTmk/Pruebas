@@ -11,6 +11,7 @@ namespace PruebaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Awesome");
+            Console.WriteLine("Awesome 2");
             Console.Read();
         }
     }
