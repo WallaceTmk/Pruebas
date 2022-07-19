@@ -6,3 +6,10 @@ C:\Users\user\Desktop\PruebaGit\PruebaGit\PruebaGit\obj\Debug\PruebaGit.csproj.S
 C:\Users\user\Desktop\PruebaGit\PruebaGit\PruebaGit\obj\Debug\PruebaGit.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\PruebaGit\PruebaGit\PruebaGit\obj\Debug\PruebaGit.exe
 C:\Users\user\Desktop\PruebaGit\PruebaGit\PruebaGit\obj\Debug\PruebaGit.pdb
+D:\Proyectos\GITPRUEBAS\Pruebas\PruebaGit\PruebaGit\bin\Debug\PruebaGit.exe.config
+D:\Proyectos\GITPRUEBAS\Pruebas\PruebaGit\PruebaGit\bin\Debug\PruebaGit.exe
+D:\Proyectos\GITPRUEBAS\Pruebas\PruebaGit\PruebaGit\bin\Debug\PruebaGit.pdb
+D:\Proyectos\GITPRUEBAS\Pruebas\PruebaGit\PruebaGit\obj\Debug\PruebaGit.csproj.AssemblyReference.cache
+D:\Proyectos\GITPRUEBAS\Pruebas\PruebaGit\PruebaGit\obj\Debug\PruebaGit.csproj.CoreCompileInputs.cache
+D:\Proyectos\GITPRUEBAS\Pruebas\PruebaGit\PruebaGit\obj\Debug\PruebaGit.exe
+D:\Proyectos\GITPRUEBAS\Pruebas\PruebaGit\PruebaGit\obj\Debug\PruebaGit.pdb
