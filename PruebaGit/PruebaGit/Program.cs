@@ -12,6 +12,11 @@ namespace PruebaGit
         {
             Console.WriteLine("Awesome");
             Console.WriteLine("Awesome 2");
+            string nom = "Equipo dinamita";
+            for(var i = 0; i < 20; i++)
+            {
+                Console.WriteLine(nom);
+            }
             var contador = 0;
             while (contador <=100)
             {
