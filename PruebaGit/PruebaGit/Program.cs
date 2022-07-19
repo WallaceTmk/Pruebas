@@ -12,6 +12,12 @@ namespace PruebaGit
         {
             Console.WriteLine("Awesome");
             Console.WriteLine("Awesome 2");
+            var contador = 0;
+            while (contador <=100)
+            {
+                Console.WriteLine(System.DateTime.Now.ToString("HH:mm:ss"));
+                contador++;
+            }
             Console.Read();
         }
     }
